@@ -8,5 +8,7 @@ cd adb-android
 
 # copy recovery file location
 
-termux-fastboot flash recovery # peace location
+ 
+# peace location
 
+termux-fastboot flash recovery
