@@ -11,3 +11,4 @@ volume down power key press hold 2 minutes
 # recovery image location copy
 #            type
 termux-fastboot flash recovery
+
