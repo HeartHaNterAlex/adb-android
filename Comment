@@ -1,0 +1,13 @@
+cd adb-android
+chmod +x termux-adb.sh
+# check device connection
+check-d.sh
+
+# phone power off 
+
+volume down power ki press hold 2 minutes
+# boot fastboot run command
+./fb.sh
+# recovery image location copy
+#            type
+termux-fastboot flash recovery
