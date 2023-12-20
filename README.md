@@ -1,4 +1,4 @@
-# adb-android__-__install-link
+# adb-android-install-link
 
 git clone https://github.com/HeartHaNterAlex/adb-android
 
