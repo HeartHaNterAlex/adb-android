@@ -5,7 +5,7 @@ check-d.sh
 
 # phone power off 
 
-volume down power ki press hold 2 minutes
+volume down power key press hold 2 minutes
 # boot fastboot run command
 ./fb.sh
 # recovery image location copy
