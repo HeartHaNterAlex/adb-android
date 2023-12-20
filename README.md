@@ -17,4 +17,4 @@ chmod +x termux-adb.sh
 
 termux-fastboot flash recovery
 
-# peace location
+# PaSte-recovery-LocĀTioN
