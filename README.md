@@ -1,6 +1,8 @@
 # adb-android-Tool-install-link
 apt update && apt upgrade 
 
+pkg install git
+
 git clone https://github.com/HeartHaNterAlex/adb-android
 
 cd adb-android
