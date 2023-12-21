@@ -3,7 +3,7 @@ apt update && apt upgrade
 
 pkg install git
 
-pkg install python3
+pkg install python
 
 git clone https://github.com/HeartHaNterAlex/adb-android
 
