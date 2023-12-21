@@ -13,6 +13,8 @@ chmod +x termux-adb.sh
 
 ./termux-adb.sh
 
+check-d.sh
+
 # phone off reboot to fastboot Ram ComMand
 
 ./fb.sh
