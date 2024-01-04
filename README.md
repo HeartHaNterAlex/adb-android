@@ -15,6 +15,11 @@ cd adb-android
 # RUN COMMAND
 bash adb.sh
 
+
+# RUN CH PERMISSION
+1
+2
+
 # tool demo image 
 ![Screenshot_2024-01-04-07-40-41-289_com termux](https://github.com/HeartHaNterAlex/termux-adb/assets/139457526/d6117fb1-951f-46ec-bd28-960e85f89b9e)
 # Instragram 🆔 link https://www.instagram.com/heart_hanter_alex?igsh=ZGNjOWZkYTE3MQ==
