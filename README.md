@@ -1,6 +1,7 @@
 # termux-adb
+![Screenshot_2024-01-09-01-58-12-524_com termux](https://github.com/HeartHaNterAlex/adb-android/assets/139457526/74403536-12ab-4ee9-9b6d-45ed27ccd4f7)
 
-![Screenshot_2024-01-04-07-40-41-289_com termux](https://github.com/HeartHaNterAlex/termux-adb/assets/139457526/d6117fb1-951f-46ec-bd28-960e85f89b9e)Android ADB setup
+Android ADB setup
 
 # oneshot installed copy command
 
