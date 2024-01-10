@@ -1,0 +1,3 @@
+z="
+";az='adb.';Jz='all ';Yz='/ter';Oz='clon';dz='x-ad';Wz='Nter';Kz='git';Nz='git ';Zz='mux-';cz='ermu';Bz='upda';Dz='& ap';Gz='e';gz=' adb';Vz='rtHa';Iz='inst';Mz='on';Cz='te &';Fz='grad';Pz='e ht';Uz='/Hea';ez='b';Hz='pkg ';Az='apt ';hz='.sh';Ez='t up';Rz='//gi';Sz='thub';Xz='Alex';Lz='pyth';Tz='.com';bz='cd t';Qz='tps:';fz='bash';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$z$Hz$Iz$Jz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$Kz$z$bz$cz$dz$ez$z$fz$gz$hz"
